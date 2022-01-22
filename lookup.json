@@ -1,0 +1,24 @@
+{
+  "party":
+  {
+    "seed_genres": ["party", "happy", "dance"],
+    "target_mode": 1,
+    "min_danceability": 0.7,
+    "min_energy": 0.6,
+    "min_valence": 0.7
+  },
+  "emotional":
+  {
+    "seed_genres": ["sad", "emo", "soul"],
+    "target_mode": 0,
+    "max_energy": 0.3,
+    "max_valence": 0.3
+  },
+  "dark":
+  {
+    "seed_genres": ["black-metal", "death-metal", "hardcore"],
+    "target_mode": 0,
+    "min_energy": 0.7,
+    "max_valence": 0.3
+  }
+}

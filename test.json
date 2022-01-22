@@ -1,0 +1,10 @@
+{
+  "party":
+  {
+    "seed_genres": ["party", "happy", "dance"],
+    "target_mode": 1,
+    "min_danceability": 0.7,
+    "min_energy": 0.5,
+    "min_valence": 0.7
+  }
+}
